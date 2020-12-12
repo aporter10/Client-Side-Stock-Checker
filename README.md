@@ -10,17 +10,6 @@
 
 Client-Side-Stock-Checker is a Python script that will scan the page for the add to cart button then alert you via sms
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install pyautogui
-pip install time
-pip install win32api
-pip install twilio
-pip install playsound
-```
 ## Usage
 Replace with proper [twillo](https://www.twilio.com/) tokens
 ```bash
